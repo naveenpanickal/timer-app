@@ -1,0 +1,7 @@
+{
+  "name": "timr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
